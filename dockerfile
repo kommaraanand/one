@@ -1,5 +1,5 @@
 FROM ubuntu
 RUN touch file1 file2 aws
-RUN touch file3
+RUN touch file4
 HELLO THIS IS EXTRA DATA WE ARE ADDING TO THIS FILE
 ADDING SOME MORE CONTENT
